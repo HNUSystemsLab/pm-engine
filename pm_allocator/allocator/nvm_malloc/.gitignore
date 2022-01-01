@@ -1,0 +1,10 @@
+.DS_Store
+*.o
+*.so
+*.a
+*.test
+objects/
+benchmark/build
+benchmark/cached
+benchmark/plots
+
